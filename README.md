@@ -10,3 +10,4 @@ Just another curious mind exploring code, tech, and the occasional rabbit hole.
 - 🛠️ Building small tools & experiments, some of which end up here  
 
 ⚡ Fun fact: Half my repos start as experiments at 2AM and never end how I planned.  
+- Dev: [Jay](https://github.com/Jay-Surana)
